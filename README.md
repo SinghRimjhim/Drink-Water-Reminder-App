@@ -23,3 +23,13 @@ for _ in range(5):
         timeout=3
     )
 
+📦 Build with PyInstaller
+
+python -m PyInstaller --onefile --noconsole --icon=water.ico code.py
+
+✅ Requirements
+
+pip install plyer
+(Use winsound only for Windows)
+
+👩‍💻 Built by Rimjhim Singh
