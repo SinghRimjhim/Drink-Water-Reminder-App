@@ -2,12 +2,12 @@
 
 A simple desktop hydration reminder app built in Python using `plyer` for notifications.
 
-## 🔔 Features
+##  Features
 - Sends a desktop notification every hour
 - Optional reminder sound
 - Lightweight `.exe` version (Windows)
 
-## 🚀 How It Works
+##  How It Works
 
 ```python
 import time
@@ -24,13 +24,13 @@ for _ in range(5):
     )
 ```
 
-## 📦 Build with PyInstaller
+##  Build with PyInstaller
 
 python -m PyInstaller --onefile --noconsole --icon=water.ico code.py
 
-## ✅ Requirements
+##  Requirements
 
 pip install plyer
 (Use winsound only for Windows)
 
-## 👩‍💻 Built by Rimjhim Singh
+##  Built by Rimjhim Singh
