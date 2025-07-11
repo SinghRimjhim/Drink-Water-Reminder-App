@@ -1,4 +1,4 @@
-# 💧 Water Reminder Desktop App
+#  Water Reminder Desktop App
 
 A simple desktop hydration reminder app built in Python using `plyer` for notifications.
 
